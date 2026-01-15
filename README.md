@@ -24,4 +24,4 @@ SparkView as a containerized solution for all hosts.
 
 ## Social links
 
-[beyond SSL](https://www.beyondssl.com/en/) • [Github](https://github.com/JulianHochgesang) • [LinkedIn](https://www.linkedin.com/in/julian-hochgesang-b66b3820b/) • [Product Hunt](https://www.producthunt.com/@julianhochgesang) • [Unsplash](https://unsplash.com/@julianhochgesang)
+[Github](https://github.com/JulianHochgesang) • [LinkedIn](https://www.linkedin.com/in/julian-hochgesang-b66b3820b/) • [Product Hunt](https://www.producthunt.com/@julianhochgesang) • [Unsplash](https://unsplash.com/@julianhochgesang)
